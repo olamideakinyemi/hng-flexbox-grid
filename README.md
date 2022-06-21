@@ -1,2 +1,2 @@
 # hng-flexbox-grid
-live url - https://grid-flexbox-abhi.netlify.app/
+live url - https://olamideakinyemi.github.io/hng-flexbox-grid/
